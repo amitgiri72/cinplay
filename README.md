@@ -49,7 +49,17 @@ npm install
 npm start
 ```
 
+
+
 6. Open your browser and navigate to `http://localhost:3000` to access CinPlay.
 
+![Screenshot (59)](https://github.com/amitgiri72/cinplay/assets/129004466/655f6eb4-bc8b-43a9-b7c0-5fecafae6d2c)
+![Screenshot (52)](https://github.com/amitgiri72/cinplay/assets/129004466/3776e0ef-a4fd-42c4-b816-cb50fa3b59ca)
+![Screenshot (53)](https://github.com/amitgiri72/cinplay/assets/129004466/b17b7cbb-5161-4d48-8bc5-e794566d9ab3)
+![Screenshot (54)](https://github.com/amitgiri72/cinplay/assets/129004466/190e313e-2675-4e22-9481-5e5030613ea5)
+![Screenshot (55)](https://github.com/amitgiri72/cinplay/assets/129004466/2f3f2b8a-c90f-4b57-a485-27fa03f51631)
+![Screenshot (56)](https://github.com/amitgiri72/cinplay/assets/129004466/577f39eb-2126-43bf-8349-1158e3df21d5)
+![Screenshot (57)](https://github.com/amitgiri72/cinplay/assets/129004466/cbe8527b-6f40-4dda-a623-22dab3d73403)
+![Screenshot (58)](https://github.com/amitgiri72/cinplay/assets/129004466/5d98860a-5d30-41e4-bca1-89804008f6a3)
 
 Happy streaming with CinPlay!
